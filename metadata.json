@@ -1,0 +1,6 @@
+{
+  "name": "Volunteerism on NSTP 2 - Examination & Module Portal",
+  "description": "Official secure examination and 3D presentation portal for NSTP 2 Volunteerism by Gimbert B. Ludovice. Features proctoring, anti-cheating security, Trimex OTP authentication, randomized questions, and Excel gradebook export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
